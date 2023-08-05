@@ -5,8 +5,8 @@ print ("--------------")
 print ("Program náhodně vygeneruje 2 čísla od 1 do 10")
 print ("Znáš výsledek?")
 
-cislo1 = randrange(0,10)
-cislo2 = randrange(0,10)
+cislo1 = randrange(0,11)
+cislo2 = randrange(0,11)
 
 print ("Byla vybrána číslo {} a {}".format(cislo1, cislo2))
 print ("Kolik je {} x {}?".format(cislo1, cislo2))
