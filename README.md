@@ -1,2 +1,2 @@
 # UcimSePython03
-Kvadratická rovnice
+Kvadratická rovnice, Malá Násobilka
