@@ -12,7 +12,7 @@ def main():
                 a = float(cislo1)
                 break
             except ValueError:
-                print("Zadaná hodnota není číslo! Zkus to znovu!")     
+                print("Zadaná hodnota není číslo! Zkus to znovu", end = "!!\n")     
 
     while True:
             cislo2 = input("Zadejte koeficient b: ")
@@ -20,7 +20,7 @@ def main():
                 b = float(cislo2)
                 break
             except ValueError:
-                print("Zadaná hodnota není číslo! Zkus to znovu!")
+                print("Zadaná hodnota není číslo! Zkus to znovu", end = "!!\n")
 
     while True:
             cislo3 = input("Zadejte koeficient c: ")
@@ -28,7 +28,7 @@ def main():
                 c = float(cislo3)
                 break
             except ValueError:
-                print("Zadaná hodnota není číslo! Zkus to znovu!")
+                print("Zadaná hodnota není číslo! Zkus to znovu", end = "!!\n")
 
 
     KV1 = KvadRovnice(a, b, c)
