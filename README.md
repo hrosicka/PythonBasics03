@@ -1,2 +1,2 @@
 # UcimSePython03
-Kvadratická rovnice, Malá Násobilka
+Kvadratická rovnice, Malá Násobilka, hra Oko bere
