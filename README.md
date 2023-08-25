@@ -6,7 +6,7 @@ Výpočet kvadratické rovnice\
 Objektové programování - použita třída KvadRovnice
 #### Malá Násobilka
 Počítání formou hry\
-rogram náhodně vygeneruje čísla od 1 do 10 a vyzve uživatele, aby vyplnit správný výsledek.
+Program náhodně vygeneruje čísla od 1 do 10 a vyzve uživatele, aby vyplnit správný výsledek.
 #### Oko bere
 Hra, náhodně se generují karty. Uživatel vyhraje v případě, že získá 21 bodů
 
