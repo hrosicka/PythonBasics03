@@ -1,4 +1,4 @@
-# UcimSePython03
+# PythonBasics03
 Jednoduché konzolové programování v Pythonu\
 Objektové programování - u kvadratické rovnice poučita třída
 #### Kvadratická rovnice
