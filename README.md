@@ -3,6 +3,7 @@ Jednoduché konzolové programování v Pythonu\
 Objektové programování - u kvadratické rovnice poučita třída
 #### Kvadratická rovnice
 Výpočet kvadratické rovnice\
+Pouze v oboru reálných čísel\
 Objektové programování - použita třída KvadRovnice
 #### Malá Násobilka
 Počítání formou hry\
