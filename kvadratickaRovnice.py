@@ -32,14 +32,32 @@ class KvadRovnice:
         D < 0 - rovnice nemá v oboru reálných čísel řešení
 
         D = 0 - rovnice má jeden dvojnásobný kořen
-        
+
         D > 0 - rovnice má dva různé reálné kořeny
         """
         D = pow(self.b,2) - 4*self.a*self.c
         return D
 
-    # řešení kvadratické rovnice podle výsledku determinantu
     def vyres(self):
+        """
+        Výpočet kvadratické rovnice
+
+        Mohou nastat 3 situace:
+
+        D < 0 - rovnice nemá v oboru reálných čísel řešení
+
+        D = 0 - rovnice má jeden dvojnásobný kořen
+        
+        D > 0 - rovnice má dva různé reálné kořeny
+
+        Pro kořeny platí:
+
+        x1 = (-b+sqrt(D))/(2*a)
+
+        x2 = (-b-sqrt(D))/(2*a)
+
+        Funkce vrací řetězec s popsaným výsledkem.
+        """
         D = self.diskriminant()
 
         if D == 0:
