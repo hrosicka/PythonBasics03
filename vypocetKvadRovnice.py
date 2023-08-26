@@ -1,6 +1,5 @@
 from kvadratickaRovnice import *
 
-
 def main():
 
     print("KVADRATICKÁ ROVNICE")
