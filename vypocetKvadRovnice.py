@@ -1,4 +1,4 @@
-from kvadratickaRovnice import *
+from kvadratickaRovnice import KvadRovnice
 
 
 def main():
